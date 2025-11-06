@@ -1,0 +1,21 @@
+# Truck Route Analytics & Simulation
+# Python package dependencies
+
+# Core data manipulation
+pandas>=2.2
+numpy>=1.24
+
+# Geospatial analysis
+geopandas>=1.0
+shapely>=2.0
+pyproj>=3.6
+fiona>=1.9
+
+# Visualization
+matplotlib>=3.8
+
+# Progress bars
+tqdm>=4.66
+
+# Parquet file support
+pyarrow>=15.0

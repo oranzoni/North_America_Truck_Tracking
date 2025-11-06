@@ -1,0 +1,9 @@
+route_id,distance_km,duration_min,avg_speed_kmh
+Miami_to_San_Francisco,4951.727,4195.06,70.82
+Los_Angeles_to_Boston,4829.031,4122.58,70.28
+Phoenix_to_Seattle,2276.565,1909.67,71.53
+Los_Angeles_to_San_Diego,193.517,209.09,55.53
+Philadelphia_to_Baltimore,165.015,172.47,57.41
+New_York_to_Philadelphia,151.687,157.28,57.87
+San_Antonio_to_Austin,127.437,129.78,58.92
+Washington_to_Baltimore,76.335,81.24,56.37

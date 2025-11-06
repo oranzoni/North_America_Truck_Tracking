@@ -1,0 +1,24 @@
+# Ignore Python cache and environment
+__pycache__/
+*.pyc
+.env/
+venv/
+
+# Ignore specific scripts
+analysis.py
+outputs/docs_test_report.json
+outputs/docs_test_report.md
+outputs/route_folder_audit.md
+scripts/cli_examples.sh
+scripts/run_doc_tests.sh
+scripts/make_readme.py
+scripts/test_markdown_commands.py
+scripts/verify_outputs_matrix.py
+DOC_TESTING_GUIDE.md
+QUICKSTART.md
+TESTING_SUMMARY.txt
+SIMULATION_OVERVIEW.md
+
+# Ignore datasets or outputs
+.github/
+routes/

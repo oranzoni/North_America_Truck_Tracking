@@ -1,0 +1,9 @@
+City_A,Lat_A,Lon_A,City_B,Lat_B,Lon_B
+Washington,38.8951,-77.0364,Baltimore,39.2904,-76.6122
+Philadelphia,39.9526,-75.1652,Baltimore,39.2904,-76.6122
+San_Antonio,29.4241,-98.4936,Austin,30.2672,-97.7431
+New_York,40.7128,-74.006,Philadelphia,39.9526,-75.1652
+Los_Angeles,34.0522,-118.2437,San_Diego,32.7157,-117.1611
+Miami,25.7617,-80.1918,San_Francisco,37.7749,-122.4194
+Los_Angeles,34.0522,-118.2437,Boston,42.3601,-71.0589
+Phoenix,33.4484,-112.074,Seattle,47.6062,-122.3321
